@@ -2,7 +2,10 @@
     "name": "Esp8266_iot",
     "description": "first iot project with arduino board.",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-mqtt-broker": "0.2.4",
+        "node-red-dashboard": "2.13.0"
+    },
     "node-red": {
         "settings": {
             "flowFile": "start.json",
