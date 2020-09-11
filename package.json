@@ -1,0 +1,12 @@
+{
+    "name": "Esp8266_iot",
+    "description": "first iot project with arduino board.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "start.json",
+            "credentialsFile": "start_cred.json"
+        }
+    }
+}
